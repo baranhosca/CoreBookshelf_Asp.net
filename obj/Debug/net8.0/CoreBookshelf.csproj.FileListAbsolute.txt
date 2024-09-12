@@ -1,0 +1,84 @@
+C:\Users\hscba\source\repos\CoreBookshelf\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\hscba\source\repos\CoreBookshelf\bin\Debug\net8.0\appsettings.json
+C:\Users\hscba\source\repos\CoreBookshelf\bin\Debug\net8.0\CoreBookshelf.staticwebassets.runtime.json
+C:\Users\hscba\source\repos\CoreBookshelf\bin\Debug\net8.0\CoreBookshelf.exe
+C:\Users\hscba\source\repos\CoreBookshelf\bin\Debug\net8.0\CoreBookshelf.deps.json
+C:\Users\hscba\source\repos\CoreBookshelf\bin\Debug\net8.0\CoreBookshelf.runtimeconfig.json
+C:\Users\hscba\source\repos\CoreBookshelf\bin\Debug\net8.0\CoreBookshelf.dll
+C:\Users\hscba\source\repos\CoreBookshelf\bin\Debug\net8.0\CoreBookshelf.pdb
+C:\Users\hscba\source\repos\CoreBookshelf\obj\Debug\net8.0\CoreBookshelf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hscba\source\repos\CoreBookshelf\obj\Debug\net8.0\CoreBookshelf.AssemblyInfoInputs.cache
+C:\Users\hscba\source\repos\CoreBookshelf\obj\Debug\net8.0\CoreBookshelf.AssemblyInfo.cs
+C:\Users\hscba\source\repos\CoreBookshelf\obj\Debug\net8.0\CoreBookshelf.csproj.CoreCompileInputs.cache
+C:\Users\hscba\source\repos\CoreBookshelf\obj\Debug\net8.0\CoreBookshelf.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hscba\source\repos\CoreBookshelf\obj\Debug\net8.0\CoreBookshelf.RazorAssemblyInfo.cache
+C:\Users\hscba\source\repos\CoreBookshelf\obj\Debug\net8.0\CoreBookshelf.RazorAssemblyInfo.cs
+C:\Users\hscba\source\repos\CoreBookshelf\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\hscba\source\repos\CoreBookshelf\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\hscba\source\repos\CoreBookshelf\obj\Debug\net8.0\staticwebassets\msbuild.CoreBookshelf.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hscba\source\repos\CoreBookshelf\obj\Debug\net8.0\staticwebassets\msbuild.build.CoreBookshelf.props
+C:\Users\hscba\source\repos\CoreBookshelf\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CoreBookshelf.props
+C:\Users\hscba\source\repos\CoreBookshelf\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CoreBookshelf.props
+C:\Users\hscba\source\repos\CoreBookshelf\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\hscba\source\repos\CoreBookshelf\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\hscba\source\repos\CoreBookshelf\obj\Debug\net8.0\scopedcss\bundle\CoreBookshelf.styles.css
+C:\Users\hscba\source\repos\CoreBookshelf\obj\Debug\net8.0\scopedcss\projectbundle\CoreBookshelf.bundle.scp.css
+C:\Users\hscba\source\repos\CoreBookshelf\obj\Debug\net8.0\CoreBookshelf.dll
+C:\Users\hscba\source\repos\CoreBookshelf\obj\Debug\net8.0\refint\CoreBookshelf.dll
+C:\Users\hscba\source\repos\CoreBookshelf\obj\Debug\net8.0\CoreBookshelf.pdb
+C:\Users\hscba\source\repos\CoreBookshelf\obj\Debug\net8.0\CoreBookshelf.genruntimeconfig.cache
+C:\Users\hscba\source\repos\CoreBookshelf\obj\Debug\net8.0\ref\CoreBookshelf.dll
+C:\Users\hscba\Documents\Programming\ASP.NET MVC\CoreBookshelf      +\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\hscba\Documents\Programming\ASP.NET MVC\CoreBookshelf      +\bin\Debug\net8.0\appsettings.json
+C:\Users\hscba\Documents\Programming\ASP.NET MVC\CoreBookshelf      +\bin\Debug\net8.0\CoreBookshelf.staticwebassets.runtime.json
+C:\Users\hscba\Documents\Programming\ASP.NET MVC\CoreBookshelf      +\bin\Debug\net8.0\CoreBookshelf.exe
+C:\Users\hscba\Documents\Programming\ASP.NET MVC\CoreBookshelf      +\obj\Debug\net8.0\CoreBookshelf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hscba\Documents\Programming\ASP.NET MVC\CoreBookshelf      +\obj\Debug\net8.0\CoreBookshelf.AssemblyInfoInputs.cache
+C:\Users\hscba\Documents\Programming\ASP.NET MVC\CoreBookshelf      +\obj\Debug\net8.0\CoreBookshelf.AssemblyInfo.cs
+C:\Users\hscba\Documents\Programming\ASP.NET MVC\CoreBookshelf      +\obj\Debug\net8.0\CoreBookshelf.csproj.CoreCompileInputs.cache
+C:\Users\hscba\Documents\Programming\ASP.NET MVC\CoreBookshelf      +\obj\Debug\net8.0\CoreBookshelf.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hscba\Documents\Programming\ASP.NET MVC\CoreBookshelf      +\obj\Debug\net8.0\CoreBookshelf.RazorAssemblyInfo.cache
+C:\Users\hscba\Documents\Programming\ASP.NET MVC\CoreBookshelf      +\obj\Debug\net8.0\CoreBookshelf.RazorAssemblyInfo.cs
+C:\Users\hscba\Documents\Programming\ASP.NET MVC\CoreBookshelf      +\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\hscba\Documents\Programming\ASP.NET MVC\CoreBookshelf      +\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\hscba\Documents\Programming\ASP.NET MVC\CoreBookshelf      +\obj\Debug\net8.0\staticwebassets\msbuild.CoreBookshelf.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hscba\Documents\Programming\ASP.NET MVC\CoreBookshelf      +\obj\Debug\net8.0\staticwebassets\msbuild.build.CoreBookshelf.props
+C:\Users\hscba\Documents\Programming\ASP.NET MVC\CoreBookshelf      +\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CoreBookshelf.props
+C:\Users\hscba\Documents\Programming\ASP.NET MVC\CoreBookshelf      +\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CoreBookshelf.props
+C:\Users\hscba\Documents\Programming\ASP.NET MVC\CoreBookshelf      +\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\hscba\Documents\Programming\ASP.NET MVC\CoreBookshelf      +\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\hscba\Documents\Programming\ASP.NET MVC\CoreBookshelf      +\obj\Debug\net8.0\scopedcss\bundle\CoreBookshelf.styles.css
+C:\Users\hscba\Documents\Programming\ASP.NET MVC\CoreBookshelf      +\obj\Debug\net8.0\scopedcss\projectbundle\CoreBookshelf.bundle.scp.css
+C:\Users\hscba\Documents\Programming\ASP.NET MVC\CoreBookshelf      +\obj\Debug\net8.0\CoreBookshelf.dll
+C:\Users\hscba\Documents\Programming\ASP.NET MVC\CoreBookshelf      +\obj\Debug\net8.0\refint\CoreBookshelf.dll
+C:\Users\hscba\Documents\Programming\ASP.NET MVC\CoreBookshelf      +\obj\Debug\net8.0\CoreBookshelf.pdb
+C:\Users\hscba\Documents\Programming\ASP.NET MVC\CoreBookshelf\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\hscba\Documents\Programming\ASP.NET MVC\CoreBookshelf\bin\Debug\net8.0\appsettings.json
+C:\Users\hscba\Documents\Programming\ASP.NET MVC\CoreBookshelf\bin\Debug\net8.0\CoreBookshelf.staticwebassets.runtime.json
+C:\Users\hscba\Documents\Programming\ASP.NET MVC\CoreBookshelf\bin\Debug\net8.0\CoreBookshelf.exe
+C:\Users\hscba\Documents\Programming\ASP.NET MVC\CoreBookshelf\bin\Debug\net8.0\CoreBookshelf.deps.json
+C:\Users\hscba\Documents\Programming\ASP.NET MVC\CoreBookshelf\bin\Debug\net8.0\CoreBookshelf.runtimeconfig.json
+C:\Users\hscba\Documents\Programming\ASP.NET MVC\CoreBookshelf\bin\Debug\net8.0\CoreBookshelf.dll
+C:\Users\hscba\Documents\Programming\ASP.NET MVC\CoreBookshelf\bin\Debug\net8.0\CoreBookshelf.pdb
+C:\Users\hscba\Documents\Programming\ASP.NET MVC\CoreBookshelf\obj\Debug\net8.0\CoreBookshelf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hscba\Documents\Programming\ASP.NET MVC\CoreBookshelf\obj\Debug\net8.0\CoreBookshelf.AssemblyInfoInputs.cache
+C:\Users\hscba\Documents\Programming\ASP.NET MVC\CoreBookshelf\obj\Debug\net8.0\CoreBookshelf.AssemblyInfo.cs
+C:\Users\hscba\Documents\Programming\ASP.NET MVC\CoreBookshelf\obj\Debug\net8.0\CoreBookshelf.csproj.CoreCompileInputs.cache
+C:\Users\hscba\Documents\Programming\ASP.NET MVC\CoreBookshelf\obj\Debug\net8.0\CoreBookshelf.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hscba\Documents\Programming\ASP.NET MVC\CoreBookshelf\obj\Debug\net8.0\CoreBookshelf.RazorAssemblyInfo.cache
+C:\Users\hscba\Documents\Programming\ASP.NET MVC\CoreBookshelf\obj\Debug\net8.0\CoreBookshelf.RazorAssemblyInfo.cs
+C:\Users\hscba\Documents\Programming\ASP.NET MVC\CoreBookshelf\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\hscba\Documents\Programming\ASP.NET MVC\CoreBookshelf\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\hscba\Documents\Programming\ASP.NET MVC\CoreBookshelf\obj\Debug\net8.0\staticwebassets\msbuild.CoreBookshelf.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hscba\Documents\Programming\ASP.NET MVC\CoreBookshelf\obj\Debug\net8.0\staticwebassets\msbuild.build.CoreBookshelf.props
+C:\Users\hscba\Documents\Programming\ASP.NET MVC\CoreBookshelf\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CoreBookshelf.props
+C:\Users\hscba\Documents\Programming\ASP.NET MVC\CoreBookshelf\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CoreBookshelf.props
+C:\Users\hscba\Documents\Programming\ASP.NET MVC\CoreBookshelf\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\hscba\Documents\Programming\ASP.NET MVC\CoreBookshelf\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\hscba\Documents\Programming\ASP.NET MVC\CoreBookshelf\obj\Debug\net8.0\scopedcss\bundle\CoreBookshelf.styles.css
+C:\Users\hscba\Documents\Programming\ASP.NET MVC\CoreBookshelf\obj\Debug\net8.0\scopedcss\projectbundle\CoreBookshelf.bundle.scp.css
+C:\Users\hscba\Documents\Programming\ASP.NET MVC\CoreBookshelf\obj\Debug\net8.0\CoreBookshelf.dll
+C:\Users\hscba\Documents\Programming\ASP.NET MVC\CoreBookshelf\obj\Debug\net8.0\refint\CoreBookshelf.dll
+C:\Users\hscba\Documents\Programming\ASP.NET MVC\CoreBookshelf\obj\Debug\net8.0\CoreBookshelf.pdb
+C:\Users\hscba\Documents\Programming\ASP.NET MVC\CoreBookshelf\obj\Debug\net8.0\CoreBookshelf.genruntimeconfig.cache
+C:\Users\hscba\Documents\Programming\ASP.NET MVC\CoreBookshelf\obj\Debug\net8.0\ref\CoreBookshelf.dll

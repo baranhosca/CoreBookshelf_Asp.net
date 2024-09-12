@@ -1,0 +1,33 @@
+﻿@model List<CoreBookshelf.Models.Books_Database>
+@{
+    <html>
+    <head>
+        <meta name="viewport" content="width=device-width" />
+        <title>BooksPage</title>
+        <link href="~/twitter-bootstrap/css/bootstrap.css" rel="stylesheet" />
+        <link href="~/twitter-bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+        <link href="~/twitter-bootstrap/css/bootstrap.rtl.css" rel="stylesheet" />
+        <link href="~/twitter-bootstrap/css/bootstrap.rtl.min.css" rel="stylesheet" />
+    </head>
+    <body>
+        <table class="table table-bordered">
+            <tr>
+                <th>ID</th>
+                <th>BOOK NAME</th>
+                <th>WRITER</th>
+            </tr>
+            @foreach (var Book_Model in Model)
+            {
+                <tr>
+                    <td>@Book_Model.ID</td>
+                    <td>@Book_Model.Book_Name</td>
+                    <td>@Book_Model.Writer</td>
+                    <br />
+                </tr>
+            }
+        </table>
+        <h2>Incoming Books</h2>
+    </body>
+    </html>
+    @Html.Partial("_PartialPage")
+}
